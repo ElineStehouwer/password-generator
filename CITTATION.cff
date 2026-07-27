@@ -7,7 +7,7 @@ authors:
     affiliation: "Radboud University, Nijmegen, The Netherlands"
 date-released: "2026-07-27"
 version: "1.0.0"
-doi: "10.5281/zenodo.XXXXXXXX"
+doi: "10.5281/zenodo.21620288"
 url: "https://github.com/ElineStehouwer/password-generator/"
 license: "MIT"
 keywords:
