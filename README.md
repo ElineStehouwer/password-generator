@@ -1,5 +1,5 @@
 # Secure Password Generator
-This password generator was developed as part of research into the security of online password generators. During the analysis of 27 commonly used web-based generators, several sources of entropy loss and implementation weaknesses were identified.
+This password generator was developed as part of a research project into the security of online password generators. During the analysis of 27 commonly used web-based generators, several sources of entropy loss and implementation weaknesses were identified.
 
 The goal of this implementation is to demonstrate how a password generator can be designed while avoiding common pitfalls such as biased character selection, character-class imbalances, and unnecessary restrictions on the password space.
 
