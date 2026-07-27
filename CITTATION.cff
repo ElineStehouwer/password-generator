@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Secure Password Generator"
+authors:
+  - family-names: "Stehouwer"
+    given-names: "Eline"
+    affiliation: "Radboud University, Nijmegen, The Netherlands"
+date-released: "2026-07-27"
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXXX"
+url: "https://github.com/ElineStehouwer/password-generator/"
+license: "MIT"
+keywords:
+  - password-generator
+  - cryptography
+  - security
+  - javascript
+
+ 
