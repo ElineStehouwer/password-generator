@@ -32,4 +32,4 @@ Copyright (c) 2026 Eline Stehouwer and Radboud University.
 ## Citation
 If you use this software in your research, please cite it using the `CITATION.cff` file or the following: 
 
-Stehouwer, Eline (2026). *Secure Password Generator*. Radboud University. https://doi.org/10.5281/zenodo.XXXXXXX
+Stehouwer, Eline (2026). *Secure Password Generator*. Radboud University. https://doi.org/10.5281/zenodo.21620288
